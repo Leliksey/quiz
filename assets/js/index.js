@@ -1,6 +1,6 @@
 
 const oneMoreScript = require('./components/oneMoreScript.js');
-const modal = require('./components/modal.js');
+const calendar = require('./components/calendar.js');
+// const timeZone = require('./components/timeZone.js');
 const owl = require('./components/owl.js');
 const burger = require('./components/burger.js');
-//const uiSlider = require('./components/uiSlider.js');
